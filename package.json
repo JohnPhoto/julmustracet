@@ -59,7 +59,7 @@
   },
   "dependencies": {
     "@date-io/date-fns": "1.x",
-    "@formatjs/intl-datetimeformat": "^2.6.10",
+    "@formatjs/intl-datetimeformat": "^4.2.3",
     "@formatjs/intl-getcanonicallocales": "^1.4.6",
     "@formatjs/intl-numberformat": "^5.6.5",
     "@formatjs/intl-pluralrules": "^3.4.10",
