@@ -86,7 +86,7 @@
     "jsonwebtoken": "^8.5.1",
     "mjml-react": "^1.0.58",
     "next": "^10.0.0",
-    "next-auth": "^3.1.0",
+    "next-auth": "^3.29.0",
     "next-pwa": "^3.1.5",
     "nodemailer": "^6.4.16",
     "pouchdb": "^7.2.2",
