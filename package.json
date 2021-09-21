@@ -109,7 +109,7 @@
     "@types/jsonwebtoken": "^8.5.0",
     "@types/node": "^14.14.7",
     "@types/pouchdb": "^6.4.0",
-    "@typescript-eslint/eslint-plugin": "^4.4.0",
+    "@typescript-eslint/eslint-plugin": "^4.31.2",
     "@typescript-eslint/parser": "^4.4.0",
     "babel-plugin-react-intl": "^8.2.17",
     "couchdb-bootstrap": "^14.2.0",
